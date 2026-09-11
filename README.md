@@ -12,7 +12,7 @@ The goal of this project is to answer key operational and business questions suc
 - What is the rental income by book category?
 
 ## ER Diagram
-![ER Diagram](Library_Management_System ER-Diagram.png)
+![ER Diagram](Library_Management_System%20ER-Diagram.png)
 
 ## Database Schema
 The project uses the following tables:
